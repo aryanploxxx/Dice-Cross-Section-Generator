@@ -27,3 +27,7 @@ Generate a visual representation (2D Net) of a 3D dice roll, either random or wi
 
 - The dice always has opposite faces that sum to 7. This logic is utilized to determine the bottom face of the dice when the top face is known.
 - After deciding on the top face (either randomly or based on user input), the code generates the other two visible faces using random choices and the rule that opposite faces sum to 7.
+
+## Screenshots
+![image](https://github.com/aryanploxxx/Dice-Cross-Section-Generator/assets/94754702/7addb6f9-7fdf-4058-97db-61d4ce74b5fc)
+![image](https://github.com/aryanploxxx/Dice-Cross-Section-Generator/assets/94754702/c225ff5b-eda0-4264-bff9-4201758f4f77)
